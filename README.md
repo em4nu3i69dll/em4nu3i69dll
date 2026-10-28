@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg" alt="Seguidores en GitHub"></a>
-  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg" alt="Estrellas recibidas en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=05e30b0cb698" alt="Seguidores en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=d6b6b357047e" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
   <a href="https://em4nu3l69dll.dev/"><img src="./assets/enlace-portafolio.svg" alt="Ver mi portafolio" height="34"></a>

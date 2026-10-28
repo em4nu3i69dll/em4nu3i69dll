@@ -1,5 +1,7 @@
 import json
+import hashlib
 import os
+import re
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -23,7 +25,7 @@ def indicador(nombre, valor, destino):
     )
 
 
-def actualizar():
+def actualizar(raiz=None):
     usuario = "em4nu3i69dll"
     perfil = consultar("users/" + usuario)
     estrellas = 0
@@ -34,9 +36,23 @@ def actualizar():
         if len(repositorios) < 100:
             break
         pagina += 1
-    carpeta = Path(__file__).resolve().parents[1] / "assets"
+    raiz = Path(raiz) if raiz is not None else Path(__file__).resolve().parents[1]
+    carpeta = raiz / "assets"
+    readme = raiz / "README.md"
+    contenido = readme.read_text(encoding="utf-8")
+    for archivo in ("seguidores.svg", "estrellas.svg"):
+        if len(re.findall(r'\./assets/' + re.escape(archivo) + r'(?:\?v=[a-f0-9]+)?', contenido)) != 1:
+            raise ValueError(f"Referencia única ausente en README: {archivo}")
     indicador("Seguidores", perfil["followers"], carpeta / "seguidores.svg")
     indicador("Estrellas", estrellas, carpeta / "estrellas.svg")
+    for archivo in ("seguidores.svg", "estrellas.svg"):
+        version = hashlib.sha256((carpeta / archivo).read_bytes()).hexdigest()[:12]
+        contenido = re.sub(
+            r'\./assets/' + re.escape(archivo) + r'(?:\?v=[a-f0-9]+)?',
+            f"./assets/{archivo}?v={version}",
+            contenido,
+        )
+    readme.write_text(contenido, encoding="utf-8")
     print(f"Seguidores {perfil['followers']} · Estrellas {estrellas}")
 
 
