@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="https://img.shields.io/github/followers/em4nu3i69dll?style=flat&amp;logo=github&amp;label=Seguidores&amp;labelColor=161b22&amp;color=238636" alt="Seguidores en GitHub"></a>
-  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="https://img.shields.io/github/stars/em4nu3i69dll?style=flat&amp;logo=github&amp;label=Estrellas&amp;labelColor=161b22&amp;color=1f6feb" alt="Estrellas recibidas en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg" alt="Seguidores en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
   <a href="https://em4nu3l69dll.dev/"><img src="./assets/enlace-portafolio.svg" alt="Ver mi portafolio" height="34"></a>
@@ -191,10 +191,10 @@ Referencias oficiales de trabajo y aprendizaje. Incluye herramientas actuales y 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=em4nu3i69dll&amp;theme=github_dark" alt="Estadísticas de GitHub: estrellas, commits, pull requests e incidencias" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em4nu3i69dll&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;disable_animations=true" alt="Lenguajes más utilizados" width="49%">
+  <img src="https://ghstats.dev/api/card?username=em4nu3i69dll&amp;theme=light&amp;hide_border=true&amp;hide_title=true&amp;border_radius=0" alt="Estadísticas de GitHub: estrellas, commits, pull requests e incidencias" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em4nu3i69dll&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;disable_animations=true" alt="Lenguajes más utilizados" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=em4nu3i69dll&amp;hide_border=true&amp;background=0D1117&amp;ring=1F6FEB&amp;fire=58A6FF&amp;currStreakNum=58A6FF&amp;sideNums=58A6FF&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E&amp;stroke=484F58" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
+  <img src="https://streak-stats.demolab.com?user=em4nu3i69dll&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=0969DA&amp;sideNums=0969DA&amp;currStreakLabel=1F2328&amp;sideLabels=1F2328&amp;dates=59636E&amp;stroke=D1D9E0" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
 </p>

@@ -2,9 +2,9 @@
   <title id="titulo">Software, infraestructura y automatización</title>
   <desc id="descripcion">Terminal de presentación: APIs, contenedores, integraciones, inteligencia artificial y MCP.</desc>
   <style>@keyframes cursor{0%,45%{opacity:1}50%,95%{opacity:0}}.cursor{animation:cursor 1.2s steps(1,end) infinite}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
-  <rect x=".5" y=".5" width="659" height="75" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <text x="20" y="29" fill="#58a6ff" font-family="Consolas,monospace" font-size="16">&gt;</text>
-  <text x="42" y="29" fill="#e6edf3" font-family="Consolas,monospace" font-size="16">Software · Infraestructura · Automatización</text>
-  <rect class="cursor" x="455" y="15" width="8" height="17" fill="#58a6ff"/>
-  <text x="42" y="55" fill="#8b949e" font-family="Consolas,monospace" font-size="12">APIs / contenedores / integraciones / IA / MCP</text>
+  <rect x=".5" y=".5" width="659" height="75" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+  <text x="20" y="29" fill="#0969da" font-family="Consolas,monospace" font-size="16">&gt;</text>
+  <text x="42" y="29" fill="#1f2328" font-family="Consolas,monospace" font-size="16">Software · Infraestructura · Automatización</text>
+  <rect class="cursor" x="455" y="15" width="8" height="17" fill="#0969da"/>
+  <text x="42" y="55" fill="#59636e" font-family="Consolas,monospace" font-size="12">APIs / contenedores / integraciones / IA / MCP</text>
 </svg>
