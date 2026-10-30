@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=a504bd4ae154" alt="Seguidores en GitHub"></a>
-  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=924dc09f446f" alt="Estrellas recibidas en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=4ce763fdc547" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
   <a href="https://em4nu3l69dll.dev/"><img src="./assets/enlace-portafolio.svg" alt="Ver mi portafolio" height="34"></a>
