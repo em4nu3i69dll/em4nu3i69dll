@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=a504bd4ae154" alt="Seguidores en GitHub"></a>
-  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=a361323f2fbc" alt="Estrellas recibidas en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=2b89e9d4cd9c" alt="Seguidores en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=d558d770a77b" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
   <a href="https://em4nu3l69dll.dev/"><img src="./assets/enlace-portafolio.svg" alt="Ver mi portafolio" height="34"></a>
@@ -191,10 +191,10 @@ Referencias oficiales de trabajo y aprendizaje. Incluye herramientas actuales y 
 ## GitHub
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=em4nu3i69dll&amp;theme=light&amp;hide_border=true&amp;hide_title=true&amp;border_radius=0" alt="Estadísticas de GitHub: estrellas, commits, pull requests e incidencias" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em4nu3i69dll&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;disable_animations=true" alt="Lenguajes más utilizados" width="49%">
+  <img src="./assets/github.svg?v=308c9dad559c" alt="Estadísticas de GitHub" width="49%">
+  <img src="./assets/lenguajes.svg?v=7d05fd1ec569" alt="Lenguajes más utilizados" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=em4nu3i69dll&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=0969DA&amp;sideNums=0969DA&amp;currStreakLabel=1F2328&amp;sideLabels=1F2328&amp;dates=59636E&amp;stroke=D1D9E0" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
+  <img src="./assets/racha.svg?v=b5fa529f9a2d" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
 </p>
