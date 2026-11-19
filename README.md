@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=1f1c0082541d" alt="Seguidores en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=56c2c56eb932" alt="Seguidores en GitHub"></a>
   <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=2182634bec78" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
@@ -191,7 +191,7 @@ Referencias oficiales de trabajo y aprendizaje. Incluye herramientas actuales y 
 ## GitHub
 
 <p align="center">
-  <img src="./assets/github.svg?v=97a577ca0269" alt="Estadísticas de GitHub" width="49%">
+  <img src="./assets/github.svg?v=cda894dc8cb7" alt="Estadísticas de GitHub" width="49%">
   <img src="./assets/lenguajes.svg?v=1add9a86d842" alt="Lenguajes más utilizados" width="49%">
 </p>
 
