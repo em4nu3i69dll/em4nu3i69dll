@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=6eae44aa841c" alt="Seguidores en GitHub"></a>
-  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=25a90e762d52" alt="Estrellas recibidas en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=followers"><img src="./assets/seguidores.svg?v=ee3bbe1a1c2b" alt="Seguidores en GitHub"></a>
+  <a href="https://github.com/em4nu3i69dll?tab=repositories"><img src="./assets/estrellas.svg?v=e8ae1dfc1fe1" alt="Estrellas recibidas en GitHub"></a>
 </p>
 <p align="center">
   <a href="https://em4nu3l69dll.dev/"><img src="./assets/enlace-portafolio.svg" alt="Ver mi portafolio" height="34"></a>
@@ -191,10 +191,10 @@ Referencias oficiales de trabajo y aprendizaje. Incluye herramientas actuales y 
 ## GitHub
 
 <p align="center">
-  <img src="./assets/github.svg?v=b71f619f21a9" alt="Estadísticas de GitHub" width="49%">
+  <img src="./assets/github.svg?v=17f1aa170757" alt="Estadísticas de GitHub" width="49%">
   <img src="./assets/lenguajes.svg?v=1add9a86d842" alt="Lenguajes más utilizados" width="49%">
 </p>
 
 <p align="center">
-  <img src="./assets/racha.svg?v=2b8a18a81c4e" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
+  <img src="./assets/racha.svg?v=a62f2462240a" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
 </p>
