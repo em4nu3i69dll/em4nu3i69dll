@@ -191,10 +191,10 @@ Referencias oficiales de trabajo y aprendizaje. Incluye herramientas actuales y 
 ## GitHub
 
 <p align="center">
-  <img src="./assets/github.svg?v=63f8cbf33d6c" alt="Estadísticas de GitHub" width="49%">
+  <img src="./assets/github.svg?v=fa1c74dde0bb" alt="Estadísticas de GitHub" width="49%">
   <img src="./assets/lenguajes.svg?v=1add9a86d842" alt="Lenguajes más utilizados" width="49%">
 </p>
 
 <p align="center">
-  <img src="./assets/racha.svg?v=25b998341297" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
+  <img src="./assets/racha.svg?v=6a991a59fb86" alt="Contribuciones totales, racha actual y racha más larga" width="75%">
 </p>
